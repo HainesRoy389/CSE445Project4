@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<xs:element name="Hotels">
-		<xs:complexType>
-			<xs:sequence>
-				<xs:element name="Hotel" maxOccurs="unbounded" minOccurs="1">
-					<xs:complexType>
-						<xs:sequence>
-							<xs:element name="Name" type="xs:string" maxOccurs="1" minOccurs="1"/>
-							<xs:element name="Phone" type="xs:string" maxOccurs="unbounded" minOccurs="1"/>
-							<xs:element name="Address" maxOccurs="1" minOccurs="1">
-								<xs:complexType>
-									<xs:sequence>
-										<xs:element name="Number" type="xs:int" maxOccurs="1" minOccurs="1"/>
-										<xs:element name="Street" type="xs:string" maxOccurs="1" minOccurs="1"/>
-										<xs:element name="City" type="xs:string" maxOccurs="1" minOccurs="1"/>
-										<xs:element name="State" type="xs:string" maxOccurs="1" minOccurs="1"/>
-										<xs:element name="Zip" type="xs:int" maxOccurs="1" minOccurs="1"/>
-									</xs:sequence>
-									<xs:attribute name="NearstAirport" type="xs:string" use="required"/>
-								</xs:complexType>
-							</xs:element>
-						</xs:sequence>
-						<xs:attribute name="Rating" type="xs:string" use="optional"/>
-					</xs:complexType>
-				</xs:element>
-			</xs:sequence>
-		</xs:complexType>
-	</xs:element>
-</xs:schema>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+	<element name="Hotels">
+		<complexType>
+			<sequence>
+				<element name="Hotel" maxOccurs="unbounded" minOccurs="1">
+					<complexType>
+						<sequence>
+							<element name="Name" type="string" maxOccurs="1" minOccurs="1"/>
+							<element name="Phone" type="string" maxOccurs="unbounded" minOccurs="1"/>
+							<element name="Address" maxOccurs="1" minOccurs="1">
+								<complexType>
+									<sequence>
+										<element name="Number" type="integer" maxOccurs="1" minOccurs="1"/>
+										<element name="Street" type="string" maxOccurs="1" minOccurs="1"/>
+										<element name="City" type="string" maxOccurs="1" minOccurs="1"/>
+										<element name="State" type="string" maxOccurs="1" minOccurs="1"/>
+										<element name="Zip" type="integer" maxOccurs="1" minOccurs="1"/>
+									</sequence>
+									<attribute name="NearstAirport" type="string" use="required"/>
+								</complexType>
+							</element>
+						</sequence>
+						<attribute name="Rating" type="string" use="optional"/>
+					</complexType>
+				</element>
+			</sequence>
+		</complexType>
+	</element>
+</schema>
