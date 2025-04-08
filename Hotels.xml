@@ -5,7 +5,7 @@
 		<Name>The Westin Tempe</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E. 7th St</Street>
 			<City>Tempe</City>
@@ -17,7 +17,7 @@
 	<Hotel Rating="4.6">
 		<Name>JW Marriott Phoenix Desert Ridge Resort &amp; Spa</Name>
 		<Phone>480-293-5000</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>5350</Number>
 			<Street>E Marriott Dr</Street>
 			<City>Phoenix</City>
@@ -30,7 +30,7 @@
 		<Name>Hyatt Regency Phoenix</Name>
 		<Phone>602-252-1234</Phone>
 		<Phone>888-421-1442</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>122</Number>
 			<Street>N 2nd St</Street>
 			<City>Phoenix</City>
@@ -42,7 +42,7 @@
 	<Hotel Rating="4.1">
 		<Name>Embassy Suites by Hilton Scottsdale Resort</Name>
 		<Phone>480-949-1414</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>5001</Number>
 			<Street>N Scottsdale Rd</Street>
 			<City>Scottsdale</City>
@@ -54,7 +54,7 @@
 	<Hotel Rating="4.0">
 		<Name>Holiday Inn Express &amp; Suites Phoenix Downtown</Name>
 		<Phone>602-675-2894</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>950</Number>
 			<Street>W Van Buren St</Street>
 			<City>Phoenix</City>
@@ -67,7 +67,7 @@
 		<Name>The Phoenician, a Luxury Collection Resort, Scottsdale</Name>
 		<Phone>480-941-8200</Phone>
 		<Phone>800-888-8234</Phone>
-		<Address NearestAirport="Sky Habor">
+		<Address NearstAirport="Sky Habor">
 			<Number>6000</Number>
 			<Street>E Camelback Rd</Street>
 			<City>Scottsdale</City>
@@ -79,7 +79,7 @@
 	<Hotel Rating="4.6">
 		<Name>Arizona Biltmore, LXR Hotels &amp; Resorts</Name>
 		<Phone>602-955-6600</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>2400</Number>
 			<Street>E Missouri Ave</Street>
 			<City>Phoenix</City>
@@ -91,7 +91,7 @@
 	<Hotel>
 		<Name>FOUND:RE Phoenix Hotel</Name>
 		<Phone>602-875-8000</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>1100</Number>
 			<Street>N Central Ave</Street>
 			<City>Phoenix</City>
@@ -103,7 +103,7 @@
 	<Hotel Rating="2.8">
 		<Name>Days Inn by Wyndham Phoenix Airport</Name>
 		<Phone>602-275-7651</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>2900</Number>
 			<Street>E Van Buren St</Street>
 			<City>Phoenix</City>
@@ -115,7 +115,7 @@
 	<Hotel Rating="4.1">
 		<Name>AC Hotel Phoenix Tempe/Downtown</Name>
 		<Phone>480-642-6140</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>100</Number>
 			<Street>E Rio Salado Pkwy</Street>
 			<City>Tempe</City>
@@ -127,7 +127,7 @@
 	<Hotel>
 		<Name>Residence Inn Phoenix Airport</Name>
 		<Phone>602-273-9220</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>801</Number>
 			<Street>N 44th St</Street>
 			<City>Phoenix</City>
